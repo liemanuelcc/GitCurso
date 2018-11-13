@@ -1,3 +1,4 @@
-nvhola el archivo ya lo modifique
+hola el archivo ya lo modifique
 modificado en el otro servidor
 modificado pc original
+modificado desde linux
